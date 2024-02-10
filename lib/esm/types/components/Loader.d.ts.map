@@ -1,0 +1,1 @@
+{"version":3,"file":"Loader.d.ts","sourceRoot":"","sources":["../../../../src/components/Loader.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAC1C,OAAO,EAAE,YAAY,EAAE,MAAM,qBAAqB,CAAC;AAInD,KAAK,UAAU,GAAG,YAAY,GAAG;IAC/B,SAAS,CAAC,EAAE,eAAe,CAAC;CAC7B,CAAC;AAEF;;;;;;GAMG;AACH,wBAAgB,MAAM,CAAC,KAAK,EAAE,UAAU,2CAYvC;AACD,eAAe,MAAM,CAAC"}
