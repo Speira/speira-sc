@@ -13,7 +13,7 @@ import { StyledButton } from './styles/StyledButton';
 const DEFAULT_PROPS = { status: 'danger' };
 
 type AlertType = DefaultProps &
-  Omit<CustomStylingProps, 'color' | 'direction' | 'size' | 'unboxed'> & {
+  Omit<CustomStylingProps, 'color' | 'direction' | 'size' | 'status' | 'unboxed'> & {
     message: string | string[];
     onClose?: () => void;
     title?: string;
